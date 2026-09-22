@@ -6,7 +6,7 @@
 
 [www.eunuox.com](https://www.eunuox.com) &nbsp;·&nbsp;
 [instagram](https://www.instagram.com/eunuo_x/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/eunuo_x) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/eunuox) &nbsp;·&nbsp;
 [heyeunuo_x@icloud.com](mailto:heyeunuo_x@icloud.com)
 
 </div>
