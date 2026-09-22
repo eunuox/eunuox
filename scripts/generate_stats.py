@@ -15,7 +15,7 @@ the edge. Motion is SMIL because GitHub strips <script> from READMEs.
 
 Env:
   GITHUB_TOKEN  required
-  GH_LOGIN      user to summarise (default: xodivorce)
+  GH_LOGIN      user to summarise (default: eunuox)
   OUT_DIR       where to write (default: assets/images)
 """
 import base64
@@ -461,7 +461,7 @@ def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         sys.exit("GITHUB_TOKEN is not set")
-    login = os.environ.get("GH_LOGIN", "xodivorce")
+    login = os.environ.get("GH_LOGIN", "eunuox")
     out_dir = os.environ.get("OUT_DIR", "assets/images")
 
     s = summarise(fetch(login, token))

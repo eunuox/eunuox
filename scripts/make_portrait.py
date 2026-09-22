@@ -42,7 +42,7 @@ from rembg import remove
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 
-DEFAULT_PHOTO = os.path.join(ROOT, "assets", "source", "xodivorce.jpg")
+DEFAULT_PHOTO = os.path.join(ROOT, "assets", "source", "eunuo_x.jpeg")
 DEFAULT_OUT = os.path.join(ROOT, "assets", "images", "ascii.svg")
 
 RAMP = " .`:-=+*cs#%@"     # bright/sparse -> dark/dense; leading space = blank

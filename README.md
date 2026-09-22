@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/images/ascii.svg" width="460" alt="xodivorce"/>
+<img src="./assets/images/ascii.svg" width="460" alt="eunuox"/>
 
 <img src="./assets/images/stats.svg" width="620" alt="Contributions in the last year"/>
 
-[www.xodivorce.in](https://www.xodivorce.in) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/xodivorce/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/xodivorce/) &nbsp;·&nbsp;
-[heyxodivorce@gmail.com](mailto:heyxodivorce@gmail.com)
+[www.eunuox.com](https://www.eunuox.com) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/eunuo_x/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/eunuo_x) &nbsp;·&nbsp;
+[heyeunuo_x@icloud.com](mailto:heyeunuo_x@icloud.com)
 
 </div>
 
@@ -17,7 +17,7 @@
 > Building what doesn’t exist yet, beating the odds.
 
 I build with intent, forge what we need, and kill what doesn’t work. Right now that's<br>
-[noticed](https://github.com/xodivorce/noticed) — an in-person dating platform. Also deep into markets: freelancing, data<br>
+[noticed](https://github.com/eunuox/noticed) — an in-person dating platform. Also deep into markets: freelancing, data<br>
 cleaning, database management, product engineering, open source, and hackathons.
 
 <img src="./assets/images/hd-stack.svg" width="620" alt="stack"/>
@@ -32,29 +32,29 @@ npm &nbsp; git
 
 <img src="./assets/images/hd-projects.svg" width="620" alt="projects"/>
 
-**[infra-xodivorce-in](https://github.com/xodivorce/infra-xodivorce-in)** &nbsp;·&nbsp; <samp>php, mysql, ai chatbot</samp><br>
+**[infra-xodivorce-in](https://github.com/eunuox/infra-xodivorce-in)** &nbsp;·&nbsp; <samp>php, mysql, ai chatbot</samp><br>
 Open infrastructure reporting system for identifying, documenting, and resolving<br>
 local civic and campus infrastructure problems. Built with @Team Divorce,<br>
 GDG MSIT Hackathon, CCU.
 
-**[face-recognise-attendance-system](https://github.com/xodivorce/face-recognise-attendance-system)** &nbsp;·&nbsp; <samp>python, opencv, pandas, flask</samp><br>
+**[face-recognise-attendance-system](https://github.com/eunuox/face-recognise-attendance-system)** &nbsp;·&nbsp; <samp>python, opencv, pandas, flask</samp><br>
 Python-based attendance system using facial recognition to capture, identify,<br>
 and record attendance automatically in real time.
 
-**[xeorl](https://github.com/xodivorce/xeorl)** &nbsp;·&nbsp; <samp>php, mysql</samp><br>
+**[xeorl](https://github.com/eunuox/xeorl)** &nbsp;·&nbsp; <samp>php, mysql</samp><br>
 Advanced URL shortening and management platform with multi-layered URL encryption,<br>
 metadata removal, mass shrinking, quick-link utilities, and privacy controls.
 
-**[npx-xodivorce](https://github.com/xodivorce/npx-xodivorce)** &nbsp;·&nbsp; <samp>javascript, node.js, npm</samp><br>
-Interactive CLI business card — run " <samp><strong>npx xodivorce</strong></samp> " directly in your<br>
+**[npx-eunuox](https://github.com/eunuox/npx-eunuox)** &nbsp;·&nbsp; <samp>javascript, node.js, npm</samp><br>
+Interactive CLI business card — run " <samp><strong>npx eunuox</strong></samp> " directly in your<br>
 terminal to explore my profile, links, resume, and more.
 
-**[www.xodivorce.in](https://www.xodivorce.in)** &nbsp;·&nbsp; <samp>laravel, tailwindcss, mysql</samp><br>
+**[www.eunuox.com](https://www.eunuox.com)** &nbsp;·&nbsp; <samp>laravel, tailwindcss, mysql</samp><br>
 Developer portfolio: projects, explorations, and everything I'm forging.
 
 <div align="center">
 
-<a href="https://github.com/xodivorce?tab=repositories">explore repositories ↗</a>
+<a href="https://github.com/eunuox?tab=repositories">explore repositories ↗</a>
 
 </div>
 
